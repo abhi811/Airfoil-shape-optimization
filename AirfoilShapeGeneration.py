@@ -1,4 +1,4 @@
-from BezierN import BezierN
+from BezierShapeInterpolation import BezierN
 from xfoil_dat import *
 
 
