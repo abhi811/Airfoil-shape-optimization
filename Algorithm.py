@@ -1,6 +1,6 @@
 import random
 from math import *
-from Gen2Airfoil import *
+from AirfoilShapeGeneration import *
 from xfoil_dat import *
 import sys
 import os
